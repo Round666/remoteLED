@@ -1,7 +1,7 @@
 ## ESP32+Arduino+Node实现网页端控制LED😛
 
 ### 实现效果
-![8e49898e8321f70fbe60 -original-original](../pic/Readme/8e49898e8321f70fbe60 -original-original.gif)
+![8e49898e8321f70fbe60 -original-original](./gif/8e49898e8321f70fbe60 -original-original.gif)
 
 ### 硬件
 🐼 esp32 wroom 32D
