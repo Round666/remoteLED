@@ -3,10 +3,10 @@
 #include "WiFi.h"
 #include "WiFiProv.h"
 #include "AppInsights.h"
-
+c:\Users\阿志\Desktop\esp32\remoteLED\example\rainmaker\rainmaker.ino
 #define DEFAULT_POWER_MODE true
 // BLE名称
-const char *service_name = "esp32";
+const char *service_name = "esp-32";
 // BLE密钥
 const char *pop = "123";
 
